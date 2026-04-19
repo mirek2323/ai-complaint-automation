@@ -246,6 +246,26 @@ System uwzględnia sytuacje takie jak:
 
 
 
+
+
+\##  Diagramy
+
+
+
+\-  \[AS-IS Diagram](miro/as-is-diagram.pdf)
+
+\-  \[TO-BE Diagram](miro/to-be-diagram.pdf)
+
+
+
+\--------------------------------------------------------------
+
+
+
+
+
+
+
 \##  Kluczowy wniosek
 
 
